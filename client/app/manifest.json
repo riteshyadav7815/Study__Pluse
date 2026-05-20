@@ -1,0 +1,10 @@
+{
+  "name": "StudyPulse",
+  "short_name": "StudyPulse",
+  "description": "Study task, timetable, calendar, and analytics tracker.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait"
+}
