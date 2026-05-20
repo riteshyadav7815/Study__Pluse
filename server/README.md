@@ -10,7 +10,7 @@
 
 ## Required Environment Variables
 - `PORT=5000`
-- `MONGODB_URI=your_mongodb_connection_string`
+- `MONGODB_URI=mongodb://127.0.0.1:27017/studypulse`
 - `JWT_SECRET=your_jwt_secret`
 - `CLIENT_URL=http://localhost:3000`
 
