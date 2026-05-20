@@ -4,9 +4,11 @@ client/node_modules/
 server/node_modules/
 
 # Next.js
+.next/
 client/.next/
 client/out/
 client/tsconfig.tsbuildinfo
+tsconfig.tsbuildinfo
 
 # Environment files
 .env
